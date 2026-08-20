@@ -41,9 +41,6 @@
 </p>
 
 </div>
-
----
-
 ---
 
 # 📌 Project Overview
