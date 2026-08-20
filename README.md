@@ -782,10 +782,7 @@ A 5–10 minute recorded demonstration can cover:
 * Final model selection
 
 ### 🎬 Video
-
-```text
-Video Link: Add your Google Drive / YouTube link here
-```
+Video Link: https://drive.google.com/file/d/10Ba9xd4vReKZPwmeXDCl_CXqYv4h0Zm2/view?usp=drive_link
 
 > Replace the placeholder with the final recorded-video link before submission.
 
