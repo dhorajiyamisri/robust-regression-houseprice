@@ -1,30 +1,48 @@
 <div align="center">
 
-# 🏠 Robust Regression — House Price Prediction
-
-### 📊 House Price Prediction using Multiple Regression Techniques
+# 🏠 Robust Regression
+### **House Price Prediction using Machine Learning**
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=House+Price+Prediction;Regression+Model+Comparison;Regularization+%7C+Cross-Validation;Decision+Tree+%7C+Random+Forest+%7C+SVR" />
+  <strong>📊 Regression Analysis • 🔁 Cross-Validation • 🌲 Ensemble Learning • 📐 Model Evaluation</strong>
 </p>
 
+<br>
+
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=850&lines=House+Price+Prediction;Regression+Model+Comparison;Ridge+%7C+Lasso+%7C+Random+Forest;Decision+Tree+%7C+SVR;Cross-Validation+%7C+Model+Evaluation" 
+  alt="Typing Animation"
+/>
+
+<br>
+
 <p>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
-
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=flat-square&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white">
 </p>
 
-<p>
+<br>
+
 <a href="https://github.com/dhorajiyamisri/robust-regression-houseprice">
-<img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white">
 </a>
+&nbsp;
+<a href="https://github.com/dhorajiyamisri/robust-regression-houseprice/blob/main/Robust_Regression_Engine.ipynb">
+  <img src="https://img.shields.io/badge/OPEN%20NOTEBOOK-111827?style=for-the-badge&logo=jupyter&logoColor=white">
+</a>
+
+<br><br>
+
+<p>
+  <sub>Built with Python • Scikit-Learn • Jupyter Notebook</sub>
 </p>
 
 </div>
+
+---
 
 ---
 
@@ -581,40 +599,6 @@ The project demonstrates:
 * Final model selection
 
 ---
-📚 Theory Demonstration
-
-The project is supported by a dedicated theory notebook, theory_concepts.ipynb, which explains the important Machine Learning concepts used throughout the practical implementation.
-
-The theory section helps connect the mathematical and conceptual foundations with their practical implementation in the main notebook.
-
-📖 Concepts Covered
-
-The theory demonstration includes concepts related to:
-
-Regression and Robust Regression
-Ridge Regression
-Lasso Regression
-L1 and L2 Regularization
-Regularization Parameter (alpha)
-Cross-Validation
-K-Fold Cross-Validation
-Stratified K-Fold Cross-Validation
-Leave-One-Out Cross-Validation
-Time Series Split
-Decision Tree Regression
-Random Forest Regression
-Support Vector Regression (SVR)
-Hyperparameter Tuning
-MAE
-MSE
-RMSE
-R² Score
-Overfitting and Generalization
-```text
-"C:\Users\Umang\Videos\Screen Recordings\Screen Recording 2026-08-20 131721.mp4"
-``` 
-
-📘 Open Theory Concepts Notebook
 
 # 💻 Quick Code Preview
 
