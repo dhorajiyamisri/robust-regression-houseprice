@@ -610,7 +610,9 @@ MSE
 RMSE
 R² Score
 Overfitting and Generalization
-🔗 Theory Notebook "C:\Users\Umang\Videos\Screen Recordings\Screen Recording 2026-08-20 131721.mp4"
+```text
+"C:\Users\Umang\Videos\Screen Recordings\Screen Recording 2026-08-20 131721.mp4"
+``` 
 
 📘 Open Theory Concepts Notebook
 
