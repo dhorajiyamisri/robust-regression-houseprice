@@ -581,80 +581,38 @@ The project demonstrates:
 * Final model selection
 
 ---
+📚 Theory Demonstration
 
-# 🖼️ Project Screenshots
+The project is supported by a dedicated theory notebook, theory_concepts.ipynb, which explains the important Machine Learning concepts used throughout the practical implementation.
 
-> **Recommended:** Add your actual Jupyter Notebook screenshots inside `docs/images/` and update the filenames below.
+The theory section helps connect the mathematical and conceptual foundations with their practical implementation in the main notebook.
 
-### Dataset Overview
+📖 Concepts Covered
 
-<p align="center">
-<img src="docs/images/dataset-overview.png" width="850">
-</p>
+The theory demonstration includes concepts related to:
 
-**Description:** Dataset preview, shape, column information, and initial data understanding.
+Regression and Robust Regression
+Ridge Regression
+Lasso Regression
+L1 and L2 Regularization
+Regularization Parameter (alpha)
+Cross-Validation
+K-Fold Cross-Validation
+Stratified K-Fold Cross-Validation
+Leave-One-Out Cross-Validation
+Time Series Split
+Decision Tree Regression
+Random Forest Regression
+Support Vector Regression (SVR)
+Hyperparameter Tuning
+MAE
+MSE
+RMSE
+R² Score
+Overfitting and Generalization
+🔗 Theory Notebook "C:\Users\Umang\Videos\Screen Recordings\Screen Recording 2026-08-20 131721.mp4"
 
----
-
-### Data Preprocessing
-
-<p align="center">
-<img src="docs/images/data-preprocessing.png" width="850">
-</p>
-
-**Description:** Missing-value checking, date transformation, feature preparation, and preprocessing output.
-
----
-
-### Ridge & Lasso Regression
-
-<p align="center">
-<img src="docs/images/ridge-lasso-results.png" width="850">
-</p>
-
-**Description:** Comparison of Ridge and Lasso regression performance.
-
----
-
-### Cross-Validation Results
-
-<p align="center">
-<img src="docs/images/cross-validation-results.png" width="850">
-</p>
-
-**Description:** Comparison of K-Fold, Stratified K-Fold, Leave-One-Out, and Time Series Split.
-
----
-
-### Random Forest Results
-
-<p align="center">
-<img src="docs/images/random-forest-results.png" width="850">
-</p>
-
-**Description:** Random Forest evaluation results on the test dataset.
-
----
-
-### Model Comparison
-
-<p align="center">
-<img src="docs/images/model-comparison.png" width="850">
-</p>
-
-**Description:** Final comparison of regression models using MAE, RMSE, and R² Score.
-
----
-
-### Overfitting Analysis
-
-<p align="center">
-<img src="docs/images/overfitting-analysis.png" width="850">
-</p>
-
-**Description:** Training versus testing R² comparison for detecting model overfitting.
-
----
+📘 Open Theory Concepts Notebook
 
 # 💻 Quick Code Preview
 
