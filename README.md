@@ -10,28 +10,28 @@
 <br>
 
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=850&lines=House+Price+Prediction;Regression+Model+Comparison;Ridge+%7C+Lasso+%7C+Elastic+Net;Decision+Tree+%7C+Random+Forest;SVR+%7C+Cross-Validation+%7C+Evaluation" 
+  src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=10B981&center=true&vCenter=true&width=850&lines=House+Price+Prediction;Regression+Model+Comparison;Ridge+%7C+Lasso+%7C+Elastic+Net;Decision+Tree+%7C+Random+Forest;SVR+%7C+Cross-Validation+%7C+Evaluation" 
   alt="Typing Animation"
 />
 
 <br>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=plastic&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=plastic&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=plastic&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=plastic&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=plastic&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000&color=3776AB">
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000&color=150458">
+  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000&color=013243">
+  <img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=000000&color=F7931E">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=000000&color=F37626">
 </p>
 
 <br>
 
 <a href="https://github.com/dhorajiyamisri/robust-regression-houseprice">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-9333EA?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-10B981?style=for-the-badge&logo=github&logoColor=white">
 </a>
 &nbsp;
 <a href="https://github.com/dhorajiyamisri/robust-regression-houseprice/blob/main/Robust_Regression_Engine.ipynb">
-  <img src="https://img.shields.io/badge/OPEN%20NOTEBOOK-2563EB?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/OPEN%20NOTEBOOK-111827?style=for-the-badge&logo=jupyter&logoColor=white">
 </a>
 
 <br><br>
@@ -41,7 +41,6 @@
 </p>
 
 </div>
-
 
 ---
 
