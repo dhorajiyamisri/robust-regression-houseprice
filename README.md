@@ -759,9 +759,6 @@ The repository also contains a dedicated theory notebook:
 **`theory_concepts.ipynb`**
 
 It is intended to support the practical implementation with the underlying Machine Learning concepts and definitions.
-
-> 📌 **Theory PDF:** Add the exported PDF version of the theory notebook to the repository before final submission if required by the assignment.
-
 ---
 
 # 🎥 Project Demonstration
